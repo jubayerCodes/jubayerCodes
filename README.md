@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Jubayer Hossain
 #### I am passionate in Mern Stack Development
-![I am passionate in Mern Stack Development]
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
 Motivated MERN stack developer with a passion for creating seamless web applications. Seeking an entry-level position to apply my technical expertise, collaborate with a skilled team, and contribute to the development of innovative and user-centric solutions.
