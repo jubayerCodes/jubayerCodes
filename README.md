@@ -46,7 +46,7 @@
 </p>
 <p align="center">
 <img src="assets/node.png"/>
-<img src="assets/mongodb.png"/>
+<img src="assets/express.png"/>
 <img src="assets/mongodb.png"/>
 </p><br/>
 
