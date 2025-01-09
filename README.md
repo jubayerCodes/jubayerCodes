@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/jhs.saif/">
+<a target="_blank" href="https://www.facebook.com/jhs.saif/">
 <img src="assets/jubayer_banner.svg" />
 </a>
 
