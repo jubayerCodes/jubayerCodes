@@ -13,7 +13,9 @@
 
 <br />
 
-[<p align="center"><img height="75" src="assets//Linkedin.png">](https://www.linkedin.com/in/jubayer-hossain-6b866723b/)[<img height="75" src="assets/Facebook.png">](https://www.facebook.com/jhs.saif/)[<img height="75" src="assets/Twitter.png"> </p>](https://x.com/jubayerC1112)
+[<img height="75" src="assets//Linkedin.png">](https://www.linkedin.com/in/jubayer-hossain-6b866723b/)
+[<img height="75" src="assets/Facebook.png">](https://www.facebook.com/jhs.saif/)
+[<img height="75" src="assets/Twitter.png">](https://x.com/jubayerC1112)
 
 <br />
 
@@ -41,7 +43,8 @@
 </p><br/>
 
 ## :eyes: Current overview
-<!-- 
+
+<!--
 <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div> -->
@@ -54,7 +57,7 @@
 
 ### 🤔 I’m trying - To help people through my work.
 
-### ⚡ Fun fact - I Love programming when I fix a bug after trying for a decade 🫠
+### ⚡ Fun fact - I love programming when I fix a bug after trying for a decade 🫠
 
 <!-- <br /> -->
 
