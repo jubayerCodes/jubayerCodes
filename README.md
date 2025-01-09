@@ -28,7 +28,7 @@
 </p>
 <p align="center">
 <img src="assets/react.png"/>
-<img src="assets/nextjs.png"/>
+<img style="width: 60px; max-width: 100%;" src="assets/nextjs.png"/>
 <img src="assets/sass.png"/>
 <img src="assets/tailwind.png"/>
 <img src="assets/bootstrap.png"/>
