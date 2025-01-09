@@ -13,10 +13,17 @@
 
 <br />
 
-[<div style="text-align: center">
-<img height="75" src="assets//Linkedin.png">](https://www.linkedin.com/in/jubayer-hossain-6b866723b/)
-[<img height="75" src="assets/Facebook.png">](https://www.facebook.com/jhs.saif/)
-[<img height="75" src="assets/Twitter.png"></div>](https://x.com/jubayerC1112)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jubayer-hossain-6b866723b/">
+    <img height="75" src="assets/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/jhs.saif/">
+    <img height="75" src="assets/Facebook.png">
+  </a>
+  <a href="https://x.com/jubayerC1112">
+    <img height="75" src="assets/Twitter.png">
+  </a>
+</p>
 
 <br />
 
