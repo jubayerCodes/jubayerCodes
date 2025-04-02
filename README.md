@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/jubayer-hossain-6b866723b/">
     <img height="75" src="assets/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/jhs.saif/">
+  <a href="https://www.facebook.com/jubayerCodes/">
     <img height="75" src="assets/Facebook.png">
   </a>
   <a href="https://x.com/jubayerC1112">
