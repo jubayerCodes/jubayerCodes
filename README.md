@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jubayer-hossain-6b866723b/">
+  <a href="https://www.linkedin.com/in/jubayer-codes/">
     <img height="75" src="assets/Linkedin.png">
   </a>
   <a href="https://www.facebook.com/jubayerCodes/">
