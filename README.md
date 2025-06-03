@@ -58,7 +58,7 @@
 
 ### 🔭 I’m working - <a href="https://myhome-5ccef.web.app/">My Home</a>
 
-### 🌱 I’m exploring - Advance Next Js App router.
+### 🌱 I’m exploring - PostgreSQL Database Management System.
 
 ### 👯 I’m looking - To collaborate on your team.
 
