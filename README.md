@@ -60,9 +60,9 @@
 
 ### 🌱 I’m exploring - PostgreSQL Database Management System.
 
-### 👯 I’m looking - To collaborate on your team.
+### 👯 I’m looking - To collaborate to your team.
 
-### 🤔 I’m trying - To help people through my work.
+### 🤔 I’m trying - To help organizations through my work.
 
 ### ⚡ Fun fact - I love programming when I fix a bug after trying for a decade 🫠
 
